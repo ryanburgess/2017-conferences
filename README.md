@@ -1,5 +1,5 @@
-# 2016 Web Development Conferences
-A list of 2016 web development conferences.
+# 2017 Web Development Conferences
+A list of 2017 web development conferences.
 A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 ## Contributing 
