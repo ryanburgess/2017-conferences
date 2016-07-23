@@ -1,7 +1,7 @@
 'use strict';
 const fs = require('fs');
 const obj = require('./list.json');
-let content = '# 2016 Web Development Conferences\nA list of 2016 web development conferences.\n\n';
+let content = '# 2016 Web Development Conferences\nA list of 2016 web development conferences.\nA list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).\n\n';
 
 // create contributing instructions
 const contribute = ('## Contributing \n' +

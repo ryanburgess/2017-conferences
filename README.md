@@ -1,5 +1,6 @@
 # 2016 Web Development Conferences
 A list of 2016 web development conferences.
+A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 ## Contributing 
 1. Fork it
