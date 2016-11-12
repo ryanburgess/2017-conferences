@@ -1,9 +1,25 @@
 [
   {
+    "title": "The Rolling Scopes Conference",
+    "url": "https://2017.conf.rollingscopes.com/",
+    "where": "Minsk, Belarus",
+    "when": "February 18-19, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
     "title": "SmashingConf Oxford 2017",
     "url": "https://shop.smashingmagazine.com/products/smashingconf-oxford-2017",
     "where": "Oxford, England",
     "when": "March 14th–15th, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Render Conf 2017",
+    "url": "http://2017.render-conf.com/",
+    "where": "Oxford, England",
+    "when": "March 30-31, 2017",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -13,6 +29,22 @@
     "where": "San Francisco, United States",
     "when": "April 4th–5th, 2017",
     "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "DEVit Conference",
+    "url": "http://devitconf.org/",
+    "where": "Thessaloniki, Greece",
+    "when": "May 20-21, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Front-Trends",
+    "url": "https://2017.front-trends.com/",
+    "where": "Warsaw, Poland",
+    "when": "May 24-26, 2017",
+    "month": "May",
     "submissionDeadline": ""
   },
   {
@@ -29,6 +61,14 @@
     "where": "Barcelona, Spain",
     "when": "October 17th–18th, 2017",
     "month": "October",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "ng-conf 2017",
+    "url": "https://www.ng-conf.org/",
+    "where": "Salt Lake City, Utah",
+    "when": "April 5-7, 2017",
+    "month": "April",
     "submissionDeadline": ""
   }
 ]
