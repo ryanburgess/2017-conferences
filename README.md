@@ -13,6 +13,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 #Conference List
 
+## [O'Reilly Velocity Conference](http://conferences.oreilly.com/velocity/vl-ca) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160119/20160122&text=O'Reilly Velocity Conference&location=San Jose, CA&details=http://conferences.oreilly.com/velocity/vl-ca, Google Calendar)
+**Where:** San Jose, CA
+
+**When:** January 19-22, 2017
+
+
 ## [The Rolling Scopes Conference](https://2017.conf.rollingscopes.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160218/20160219&text=The Rolling Scopes Conference&location=Minsk, Belarus&details=https://2017.conf.rollingscopes.com/, Google Calendar)
 **Where:** Minsk, Belarus
 
