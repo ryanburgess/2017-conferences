@@ -43,6 +43,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** April 4th–5th, 2017
 
 
+## [Bulgaria Web Summit 2017](https://bulgariawebsummit.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160407/20160408&text=Bulgaria Web Summit 2017&location=Sofia, Bulgaria&details=https://bulgariawebsummit.com, Google Calendar)
+**Where:** Sofia, Bulgaria
+
+**When:** April 7th–8th, 2017
+
+
 ## [DEVit Conference](http://devitconf.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160520/20160521&text=DEVit Conference&location=Thessaloniki, Greece&details=http://devitconf.org/, Google Calendar)
 **Where:** Thessaloniki, Greece
 
