@@ -78,3 +78,9 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** April 5-7, 2017
 
+
+## [Full Stack TO](http://fsto.co/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161023/20161024&text=Full Stack TO&location=Toronto, Ontario Canada&details=http://fsto.co/, Google Calendar)
+**Where:** Toronto, Ontario Canada
+
+**When:** October 23-24, 2017
+
