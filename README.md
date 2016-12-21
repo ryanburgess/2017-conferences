@@ -55,6 +55,18 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** February 23, 2017
 
 
+## [UX Riga](http://www.uxriga.lv/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160223/20160223&text=UX Riga&location=Riga, Latvia&details=http://www.uxriga.lv/, Google Calendar)
+**Where:** Riga, Latvia
+
+**When:** February 23, 2017
+
+
+## [Typography Day 2017](http://www.typoday.in/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160223/20160223&text=Typography Day 2017&location=Moratuwa, Sri Lanka&details=http://www.typoday.in/, Google Calendar)
+**Where:** Moratuwa, Sri Lanka
+
+**When:** February 23, 2017
+
+
 ## [Voxxed Days - Cern](https://voxxeddays.com/cern/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160225/20160225&text=Voxxed Days - Cern&location=Geneva, Switzerland&details=https://voxxeddays.com/cern/, Google Calendar)
 **Where:** Geneva, Switzerland
 
@@ -85,6 +97,18 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 10th, 2017
 
 
+## [SXSW](https://www.sxsw.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160310/20160319&text=SXSW&location=Austin, Texas&details=https://www.sxsw.com, Google Calendar)
+**Where:** Austin, Texas
+
+**When:** March 10-19, 2017
+
+
+## [React Conf](http://conf.reactjs.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160313/20160314&text=React Conf&location=Santa Clara, CA&details=http://conf.reactjs.org/, Google Calendar)
+**Where:** Santa Clara, CA
+
+**When:** March 13th-14th, 2017
+
+
 ## [SmashingConf Oxford 2017](https://shop.smashingmagazine.com/products/smashingconf-oxford-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160314/20160315&text=SmashingConf Oxford 2017&location=Oxford, England&details=https://shop.smashingmagazine.com/products/smashingconf-oxford-2017, Google Calendar)
 **Where:** Oxford, England
 
@@ -101,6 +125,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **Where:** Vienna, Austria
 
 **When:** March 16-17, 2017
+
+
+## [Ember Conf](http://emberconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160328/20160329&text=Ember Conf&location=Portland, OR&details=http://emberconf.com/, Google Calendar)
+**Where:** Portland, OR
+
+**When:** March 28-29, 2017
 
 
 ## [Render Conf 2017](http://2017.render-conf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160330/20160331&text=Render Conf 2017&location=Oxford, England&details=http://2017.render-conf.com/, Google Calendar)
@@ -125,6 +155,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **Where:** Palazzo dei Congressi, Lugano
 
 **When:** May 6, 2017
+
+
+## [Riga Dev Days](http://rigadevdays.lv/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160515/20160517&text=Riga Dev Days&location=Riga, Latvia&details=http://rigadevdays.lv/, Google Calendar)
+**Where:** Riga, Latvia
+
+**When:** May 15th–17th, 2017
 
 
 ## [Voxxed Days - Athens](https://voxxeddays.com/athens/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160518/20160520&text=Voxxed Days - Athens&location=Athens, Greece&details=https://voxxeddays.com/athens/, Google Calendar)

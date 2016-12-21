@@ -56,6 +56,22 @@
     "submissionDeadline": ""
   },
   {
+    "title": "UX Riga",
+    "url": "http://www.uxriga.lv/",
+    "where": "Riga, Latvia",
+    "when": "February 23, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Typography Day 2017",
+    "url": "http://www.typoday.in/",
+    "where": "Moratuwa, Sri Lanka",
+    "when": "February 23, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Voxxed Days - Cern",
     "url": "https://voxxeddays.com/cern/",
     "where": "Geneva, Switzerland",
@@ -96,6 +112,22 @@
     "submissionDeadline": ""
   },
   {
+    "title": "SXSW",
+    "url": "https://www.sxsw.com",
+    "where": "Austin, Texas",
+    "when": "March 10-19, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "React Conf",
+    "url": "http://conf.reactjs.org/",
+    "where": "Santa Clara, CA",
+    "when": "March 13th-14th, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
     "title": "SmashingConf Oxford 2017",
     "url": "https://shop.smashingmagazine.com/products/smashingconf-oxford-2017",
     "where": "Oxford, England",
@@ -116,6 +148,14 @@
     "url": "https://voxxeddays.com/vienna/",
     "where": "Vienna, Austria",
     "when": "March 16-17, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Ember Conf",
+    "url": "http://emberconf.com/",
+    "where": "Portland, OR",
+    "when": "March 28-29, 2017",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -148,6 +188,14 @@
     "url": "https://voxxeddays.com/ticino/",
     "where": "Palazzo dei Congressi, Lugano",
     "when": "May 6, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Riga Dev Days",
+    "url": "http://rigadevdays.lv/",
+    "where": "Riga, Latvia",
+    "when": "May 15th–17th, 2017",
     "month": "May",
     "submissionDeadline": ""
   },
