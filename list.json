@@ -8,6 +8,30 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Agile Content Conf",
+    "url": "https://2017.agilecontentconf.com/",
+    "where": "London, UK",
+    "when": "January 30-31, 2017",
+    "month": "January",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Jfokus",
+    "url": "http://www.jfokus.se/jfokus/",
+    "where": "Stockholm, Sweden",
+    "when": "February 6-8, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Sustainable UX",
+    "url": "http://sustainableux.com/",
+    "where": "Online",
+    "when": "February 16, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
     "title": "The Rolling Scopes Conference",
     "url": "https://2017.conf.rollingscopes.com/",
     "where": "Minsk, Belarus",
@@ -24,10 +48,74 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Voxxed Days - Zurich",
+    "url": "https://voxxeddays.com/zurich/",
+    "where": "Zurich, Switzerland",
+    "when": "February 23, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Voxxed Days - Cern",
+    "url": "https://voxxeddays.com/cern/",
+    "where": "Geneva, Switzerland",
+    "when": "February 25, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Forward JS",
+    "url": "https://forwardjs.com/",
+    "where": "San Francisco, CA",
+    "when": "March 1st, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Voxxed Days - Bristol",
+    "url": "https://voxxeddays.com/bristol/",
+    "where": "Watershed, Bristol",
+    "when": "March 2nd, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "A Day of REST",
+    "url": "https://adayofrest.hm/boston-2017/",
+    "where": "Boston, MA",
+    "when": "March 9th, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Voxxed Days - Bucharest",
+    "url": "https://voxxeddays.com/bucharest/",
+    "where": "Bucharest, Romania",
+    "when": "March 10th, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
     "title": "SmashingConf Oxford 2017",
     "url": "https://shop.smashingmagazine.com/products/smashingconf-oxford-2017",
     "where": "Oxford, England",
     "when": "March 14th–15th, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "JS Remote Conf",
+    "url": "https://devchat.tv/conferences/js-remote-conf-2017",
+    "where": "Online",
+    "when": "March 15th–16th, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Voxxed Days - Vienna",
+    "url": "https://voxxeddays.com/vienna/",
+    "where": "Vienna, Austria",
+    "when": "March 16-17, 2017",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -56,6 +144,22 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Voxxed Days - Ticino",
+    "url": "https://voxxeddays.com/ticino/",
+    "where": "Palazzo dei Congressi, Lugano",
+    "when": "May 6, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Voxxed Days - Athens",
+    "url": "https://voxxeddays.com/athens/",
+    "where": "Athens, Greece",
+    "when": "May 18-20, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
     "title": "DEVit Conference",
     "url": "http://devitconf.org/",
     "where": "Thessaloniki, Greece",
@@ -69,6 +173,14 @@
     "where": "Warsaw, Poland",
     "when": "May 24-26, 2017",
     "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Voxxed Days - Singapore",
+    "url": "https://voxxeddays.com/singapore/",
+    "where": "Marina Bay Sands, Singapore",
+    "when": "June 2, 2017",
+    "month": "June",
     "submissionDeadline": ""
   },
   {
