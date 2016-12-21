@@ -25,6 +25,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** February 18-19, 2017
 
 
+## [The Lead Developer New York](http://2017.theleaddeveloper-ny.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160221/20160221&text=The Lead Developer New York&location=New York City, US&details=http://2017.theleaddeveloper-ny.com/, Google Calendar)
+**Where:** New York City, US
+
+**When:** February 21, 2017
+
+
 ## [SmashingConf Oxford 2017](https://shop.smashingmagazine.com/products/smashingconf-oxford-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160314/20160315&text=SmashingConf Oxford 2017&location=Oxford, England&details=https://shop.smashingmagazine.com/products/smashingconf-oxford-2017, Google Calendar)
 **Where:** Oxford, England
 
