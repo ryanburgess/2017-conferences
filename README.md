@@ -151,10 +151,22 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** April 7th–8th, 2017
 
 
+## [CSSConf EU](http://2017.cssconf.eu) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160505/20160505&text=CSSConf EU&location=Arena Berlin, Germany&details=http://2017.cssconf.eu, Google Calendar)
+**Where:** Arena Berlin, Germany
+
+**When:** May 5, 2017
+
+
 ## [Voxxed Days - Ticino](https://voxxeddays.com/ticino/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160506/20160506&text=Voxxed Days - Ticino&location=Palazzo dei Congressi, Lugano&details=https://voxxeddays.com/ticino/, Google Calendar)
 **Where:** Palazzo dei Congressi, Lugano
 
 **When:** May 6, 2017
+
+
+## [JSConf EU](http://2017.jsconf.eu) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160506/20160507&text=JSConf EU&location=Arena Berlin, Germany&details=http://2017.jsconf.eu, Google Calendar)
+**Where:** Arena Berlin, Germany
+
+**When:** May 6-7, 2017
 
 
 ## [Riga Dev Days](http://rigadevdays.lv/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160515/20160517&text=Riga Dev Days&location=Riga, Latvia&details=http://rigadevdays.lv/, Google Calendar)
