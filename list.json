@@ -184,12 +184,28 @@
     "submissionDeadline": ""
   },
   {
+    "title": "CSSConf EU",
+    "url": "http://2017.cssconf.eu",
+    "where": "Arena Berlin, Germany",
+    "when": "May 5, 2017",
+    "month": "May",
+    "submissionDeadline": "Jan 1st, 2017"
+  },
+  {
     "title": "Voxxed Days - Ticino",
     "url": "https://voxxeddays.com/ticino/",
     "where": "Palazzo dei Congressi, Lugano",
     "when": "May 6, 2017",
     "month": "May",
     "submissionDeadline": ""
+  },
+  {
+    "title": "JSConf EU",
+    "url": "http://2017.jsconf.eu",
+    "where": "Arena Berlin, Germany",
+    "when": "May 6-7, 2017",
+    "month": "May",
+    "submissionDeadline": "Jan 1st, 2017"
   },
   {
     "title": "Riga Dev Days",
