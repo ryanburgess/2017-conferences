@@ -205,6 +205,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** September 11th–12th, 2017
 
 
+## [Web Unleashed 2017](http://fitc.ca/event/webu17/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160925/20160926&text=Web Unleashed 2017&location=Toronto, Ontario Canada&details=http://fitc.ca/event/webu17/, Google Calendar)
+**Where:** Toronto, Ontario Canada
+
+**When:** September 25th–26th, 2017
+
+
 ## [SmashingConf Barcelona 2017](https://shop.smashingmagazine.com/products/smashingconf-barcelona-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161017/20161018&text=SmashingConf Barcelona 2017&location=Barcelona, Spain&details=https://shop.smashingmagazine.com/products/smashingconf-barcelona-2017, Google Calendar)
 **Where:** Barcelona, Spain
 
