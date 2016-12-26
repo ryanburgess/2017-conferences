@@ -24,6 +24,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Webstock",
+    "url": "http://www.webstock.org.nz/17/",
+    "where": "Wellington, New Zealand",
+    "when": "February 13-17, 2017",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Sustainable UX",
     "url": "http://sustainableux.com/",
     "where": "Online",
@@ -96,6 +104,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "jDays",
+    "url": "http://www.jdays.se/",
+    "where": "Göteborg, Sweden",
+    "when": "March 7-8, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
     "title": "A Day of REST",
     "url": "https://adayofrest.hm/boston-2017/",
     "where": "Boston, MA",
@@ -152,6 +168,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "React London",
+    "url": "https://react.london/",
+    "where": "London, UK",
+    "when": "March 28, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Ember Conf",
     "url": "http://emberconf.com/",
     "where": "Portland, OR",
@@ -168,6 +192,30 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Design it; Build it",
+    "url": "http://www.dibiconference.com",
+    "where": "Edinburgh, Scotland",
+    "when": "March 30-31, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "AlterConf",
+    "url": "https://www.alterconf.com/conferences/london-england",
+    "where": "London, UK",
+    "when": "April 1, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "An Event Apart",
+    "url": "https://aneventapart.com/event/seattle-2017",
+    "where": "Seattle, WA",
+    "when": "April 3-5, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
     "title": "SmashingConf San Francisco 2017",
     "url": "https://shop.smashingmagazine.com/products/smashingconf-san-francisco-2017",
     "where": "San Francisco, United States",
@@ -176,10 +224,50 @@
     "submissionDeadline": ""
   },
   {
+    "title": "ng-conf 2017",
+    "url": "https://www.ng-conf.org/",
+    "where": "Salt Lake City, Utah",
+    "when": "April 5-7, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Bulgaria Web Summit 2017",
     "url": "https://bulgariawebsummit.com",
     "where": "Sofia, Bulgaria",
     "when": "April 7th–8th, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Front End Design Conference",
+    "url": "https://frontenddesignconference.com/",
+    "where": "St. Petersburg, FL",
+    "when": "April 19-21, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "React Amsterdam",
+    "url": "http://react-amsterdam.com/",
+    "where": "Amsterdam, NL",
+    "when": "April 21, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "FITC Toronto",
+    "url": "http://react-amsterdam.com/",
+    "where": "Toronto, Canada",
+    "when": "April 23-25, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Open Vis Conf",
+    "url": "https://openvisconf.com/",
+    "where": "Boston, MA",
+    "when": "April 24-25, 2017",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -269,14 +357,6 @@
     "where": "Barcelona, Spain",
     "when": "October 17th–18th, 2017",
     "month": "October",
-    "submissionDeadline": ""
-  },
-  {
-    "title": "ng-conf 2017",
-    "url": "https://www.ng-conf.org/",
-    "where": "Salt Lake City, Utah",
-    "when": "April 5-7, 2017",
-    "month": "April",
     "submissionDeadline": ""
   },
   {

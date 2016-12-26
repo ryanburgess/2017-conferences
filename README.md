@@ -31,6 +31,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** February 6-8, 2017
 
 
+## [Webstock](http://www.webstock.org.nz/17/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160213/20160217&text=Webstock&location=Wellington, New Zealand&details=http://www.webstock.org.nz/17/, Google Calendar)
+**Where:** Wellington, New Zealand
+
+**When:** February 13-17, 2017
+
+
 ## [Sustainable UX](http://sustainableux.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160216/20160216&text=Sustainable UX&location=Online&details=http://sustainableux.com/, Google Calendar)
 **Where:** Online
 
@@ -85,6 +91,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 2nd, 2017
 
 
+## [jDays](http://www.jdays.se/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160307/20160308&text=jDays&location=Göteborg, Sweden&details=http://www.jdays.se/, Google Calendar)
+**Where:** Göteborg, Sweden
+
+**When:** March 7-8, 2017
+
+
 ## [A Day of REST](https://adayofrest.hm/boston-2017/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160309/20160309&text=A Day of REST&location=Boston, MA&details=https://adayofrest.hm/boston-2017/, Google Calendar)
 **Where:** Boston, MA
 
@@ -127,6 +139,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 16-17, 2017
 
 
+## [React London](https://react.london/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160328/20160328&text=React London&location=London, UK&details=https://react.london/, Google Calendar)
+**Where:** London, UK
+
+**When:** March 28, 2017
+
+
 ## [Ember Conf](http://emberconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160328/20160329&text=Ember Conf&location=Portland, OR&details=http://emberconf.com/, Google Calendar)
 **Where:** Portland, OR
 
@@ -139,16 +157,64 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 30-31, 2017
 
 
+## [Design it; Build it](http://www.dibiconference.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160330/20160331&text=Design it; Build it&location=Edinburgh, Scotland&details=http://www.dibiconference.com, Google Calendar)
+**Where:** Edinburgh, Scotland
+
+**When:** March 30-31, 2017
+
+
+## [AlterConf](https://www.alterconf.com/conferences/london-england) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160401/20160401&text=AlterConf&location=London, UK&details=https://www.alterconf.com/conferences/london-england, Google Calendar)
+**Where:** London, UK
+
+**When:** April 1, 2017
+
+
+## [An Event Apart](https://aneventapart.com/event/seattle-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160403/20160405&text=An Event Apart&location=Seattle, WA&details=https://aneventapart.com/event/seattle-2017, Google Calendar)
+**Where:** Seattle, WA
+
+**When:** April 3-5, 2017
+
+
 ## [SmashingConf San Francisco 2017](https://shop.smashingmagazine.com/products/smashingconf-san-francisco-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160404/20160405&text=SmashingConf San Francisco 2017&location=San Francisco, United States&details=https://shop.smashingmagazine.com/products/smashingconf-san-francisco-2017, Google Calendar)
 **Where:** San Francisco, United States
 
 **When:** April 4th–5th, 2017
 
 
+## [ng-conf 2017](https://www.ng-conf.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160405/20160407&text=ng-conf 2017&location=Salt Lake City, Utah&details=https://www.ng-conf.org/, Google Calendar)
+**Where:** Salt Lake City, Utah
+
+**When:** April 5-7, 2017
+
+
 ## [Bulgaria Web Summit 2017](https://bulgariawebsummit.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160407/20160408&text=Bulgaria Web Summit 2017&location=Sofia, Bulgaria&details=https://bulgariawebsummit.com, Google Calendar)
 **Where:** Sofia, Bulgaria
 
 **When:** April 7th–8th, 2017
+
+
+## [Front End Design Conference](https://frontenddesignconference.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160419/20160421&text=Front End Design Conference&location=St. Petersburg, FL&details=https://frontenddesignconference.com/, Google Calendar)
+**Where:** St. Petersburg, FL
+
+**When:** April 19-21, 2017
+
+
+## [React Amsterdam](http://react-amsterdam.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160421/20160421&text=React Amsterdam&location=Amsterdam, NL&details=http://react-amsterdam.com/, Google Calendar)
+**Where:** Amsterdam, NL
+
+**When:** April 21, 2017
+
+
+## [FITC Toronto](http://react-amsterdam.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160423/20160425&text=FITC Toronto&location=Toronto, Canada&details=http://react-amsterdam.com/, Google Calendar)
+**Where:** Toronto, Canada
+
+**When:** April 23-25, 2017
+
+
+## [Open Vis Conf](https://openvisconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160424/20160425&text=Open Vis Conf&location=Boston, MA&details=https://openvisconf.com/, Google Calendar)
+**Where:** Boston, MA
+
+**When:** April 24-25, 2017
 
 
 ## [CSSConf EU](http://2017.cssconf.eu) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160505/20160505&text=CSSConf EU&location=Arena Berlin, Germany&details=http://2017.cssconf.eu, Google Calendar)
@@ -215,12 +281,6 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **Where:** Barcelona, Spain
 
 **When:** October 17th–18th, 2017
-
-
-## [ng-conf 2017](https://www.ng-conf.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160405/20160407&text=ng-conf 2017&location=Salt Lake City, Utah&details=https://www.ng-conf.org/, Google Calendar)
-**Where:** Salt Lake City, Utah
-
-**When:** April 5-7, 2017
 
 
 ## [Full Stack TO](http://fsto.co/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161023/20161024&text=Full Stack TO&location=Toronto, Ontario Canada&details=http://fsto.co/, Google Calendar)
