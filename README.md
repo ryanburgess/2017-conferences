@@ -259,6 +259,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** May 24-26, 2017
 
 
+## [Frontend United](http://frontendunited.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160526/20160527&text=Frontend United&location=Athens, Greece&details=http://frontendunited.org/, Google Calendar)
+**Where:** Athens, Greece
+
+**When:** May 26-27, 2017
+
+
 ## [Voxxed Days - Singapore](https://voxxeddays.com/singapore/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160602/20160602&text=Voxxed Days - Singapore&location=Marina Bay Sands, Singapore&details=https://voxxeddays.com/singapore/, Google Calendar)
 **Where:** Marina Bay Sands, Singapore
 
