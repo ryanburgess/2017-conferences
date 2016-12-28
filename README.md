@@ -19,6 +19,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** January 19-22, 2017
 
 
+## [Script17](https://scriptconf.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160127/20160127&text=Script17&location=Linz, Austria&details=https://scriptconf.org/, Google Calendar)
+**Where:** Linz, Austria
+
+**When:** January 27, 2017
+
+
 ## [Agile Content Conf](https://2017.agilecontentconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160130/20160131&text=Agile Content Conf&location=London, UK&details=https://2017.agilecontentconf.com/, Google Calendar)
 **Where:** London, UK
 
