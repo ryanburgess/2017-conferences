@@ -337,6 +337,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** June 2, 2017
 
 
+## [Elm Europe](https://elmeurope.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160608/20160609&text=Elm Europe&location=Paris, France&details=https://elmeurope.org/, Google Calendar)
+**Where:** Paris, France
+
+**When:** June 8-9, 2017
+
+
 ## [SmashingConf Freiburg 2017](https://shop.smashingmagazine.com/products/smashingconf-freiburg-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160911/20160912&text=SmashingConf Freiburg 2017&location=Freiburg, Germany&details=https://shop.smashingmagazine.com/products/smashingconf-freiburg-2017, Google Calendar)
 **Where:** Freiburg, Germany
 
