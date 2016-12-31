@@ -272,6 +272,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Generate",
+    "url": "https://www.generateconf.com/new-york-2017/",
+    "where": "New York City, NY",
+    "when": "April 27-28, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
     "title": "CSSConf EU",
     "url": "http://2017.cssconf.eu",
     "where": "Arena Berlin, Germany",
@@ -296,9 +304,41 @@
     "submissionDeadline": "Jan 1st, 2017"
   },
   {
+    "title": "OSCON",
+    "url": "http://conferences.oreilly.com/oscon/oscon-tx",
+    "where": "Austin, TX",
+    "when": "May 8-11, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Front",
+    "url": "https://www.frontutah.com/",
+    "where": "Salt Lake City, Utah",
+    "when": "May 9-10, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Riga Dev Days",
     "url": "http://rigadevdays.lv/",
     "where": "Riga, Latvia",
+    "when": "May 15th–17th, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "An Event Apart",
+    "url": "https://aneventapart.com/event/boston-2017",
+    "where": "Boston, MA",
+    "when": "May 15th–17th, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Beyond Tellerrand",
+    "url": "http://beyondtellerrand.com/",
+    "where": "Dusseldorf, Germany",
     "when": "May 15th–17th, 2017",
     "month": "May",
     "submissionDeadline": ""
@@ -312,6 +352,22 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Syntax",
+    "url": "https://2017.syntaxcon.com/",
+    "where": "North Charleston",
+    "when": "May 18-19, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "React Europe",
+    "url": "https://www.react-europe.org/",
+    "where": "Paris, France",
+    "when": "May 18-19, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
     "title": "DEVit Conference",
     "url": "http://devitconf.org/",
     "where": "Thessaloniki, Greece",
@@ -320,10 +376,34 @@
     "submissionDeadline": ""
   },
   {
+    "title": "User Experience Lisbon",
+    "url": "https://www.ux-lx.com/",
+    "where": "Lisbon, Portugal",
+    "when": "May 23-26, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Front-Trends",
     "url": "https://2017.front-trends.com/",
     "where": "Warsaw, Poland",
     "when": "May 24-26, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "UX London",
+    "url": "http://2017.uxlondon.com/",
+    "where": "London, UK",
+    "when": "May 24-26, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Frontend United",
+    "url": "http://frontendunited.org/",
+    "where": "Athens, Greece",
+    "when": "May 26-27, 2017",
     "month": "May",
     "submissionDeadline": ""
   },

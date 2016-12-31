@@ -217,6 +217,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** April 24-25, 2017
 
 
+## [Generate](https://www.generateconf.com/new-york-2017/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160427/20160428&text=Generate&location=New York City, NY&details=https://www.generateconf.com/new-york-2017/, Google Calendar)
+**Where:** New York City, NY
+
+**When:** April 27-28, 2017
+
+
 ## [CSSConf EU](http://2017.cssconf.eu) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160505/20160505&text=CSSConf EU&location=Arena Berlin, Germany&details=http://2017.cssconf.eu, Google Calendar)
 **Where:** Arena Berlin, Germany
 
@@ -235,8 +241,32 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** May 6-7, 2017
 
 
+## [OSCON](http://conferences.oreilly.com/oscon/oscon-tx) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160508/20160511&text=OSCON&location=Austin, TX&details=http://conferences.oreilly.com/oscon/oscon-tx, Google Calendar)
+**Where:** Austin, TX
+
+**When:** May 8-11, 2017
+
+
+## [Front](https://www.frontutah.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160509/20160510&text=Front&location=Salt Lake City, Utah&details=https://www.frontutah.com/, Google Calendar)
+**Where:** Salt Lake City, Utah
+
+**When:** May 9-10, 2017
+
+
 ## [Riga Dev Days](http://rigadevdays.lv/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160515/20160517&text=Riga Dev Days&location=Riga, Latvia&details=http://rigadevdays.lv/, Google Calendar)
 **Where:** Riga, Latvia
+
+**When:** May 15th–17th, 2017
+
+
+## [An Event Apart](https://aneventapart.com/event/boston-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160515/20160517&text=An Event Apart&location=Boston, MA&details=https://aneventapart.com/event/boston-2017, Google Calendar)
+**Where:** Boston, MA
+
+**When:** May 15th–17th, 2017
+
+
+## [Beyond Tellerrand](http://beyondtellerrand.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160515/20160517&text=Beyond Tellerrand&location=Dusseldorf, Germany&details=http://beyondtellerrand.com/, Google Calendar)
+**Where:** Dusseldorf, Germany
 
 **When:** May 15th–17th, 2017
 
@@ -247,16 +277,46 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** May 18-20, 2017
 
 
+## [Syntax](https://2017.syntaxcon.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160518/20160519&text=Syntax&location=North Charleston&details=https://2017.syntaxcon.com/, Google Calendar)
+**Where:** North Charleston
+
+**When:** May 18-19, 2017
+
+
+## [React Europe](https://www.react-europe.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160518/20160519&text=React Europe&location=Paris, France&details=https://www.react-europe.org/, Google Calendar)
+**Where:** Paris, France
+
+**When:** May 18-19, 2017
+
+
 ## [DEVit Conference](http://devitconf.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160520/20160521&text=DEVit Conference&location=Thessaloniki, Greece&details=http://devitconf.org/, Google Calendar)
 **Where:** Thessaloniki, Greece
 
 **When:** May 20-21, 2017
 
 
+## [User Experience Lisbon](https://www.ux-lx.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160523/20160526&text=User Experience Lisbon&location=Lisbon, Portugal&details=https://www.ux-lx.com/, Google Calendar)
+**Where:** Lisbon, Portugal
+
+**When:** May 23-26, 2017
+
+
 ## [Front-Trends](https://2017.front-trends.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160524/20160526&text=Front-Trends&location=Warsaw, Poland&details=https://2017.front-trends.com/, Google Calendar)
 **Where:** Warsaw, Poland
 
 **When:** May 24-26, 2017
+
+
+## [UX London](http://2017.uxlondon.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160524/20160526&text=UX London&location=London, UK&details=http://2017.uxlondon.com/, Google Calendar)
+**Where:** London, UK
+
+**When:** May 24-26, 2017
+
+
+## [Frontend United](http://frontendunited.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160526/20160527&text=Frontend United&location=Athens, Greece&details=http://frontendunited.org/, Google Calendar)
+**Where:** Athens, Greece
+
+**When:** May 26-27, 2017
 
 
 ## [Voxxed Days - Singapore](https://voxxeddays.com/singapore/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160602/20160602&text=Voxxed Days - Singapore&location=Marina Bay Sands, Singapore&details=https://voxxeddays.com/singapore/, Google Calendar)
