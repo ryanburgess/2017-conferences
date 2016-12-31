@@ -13,6 +13,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 #Conference List
 
+## [Agent Conf](http://www.agent.sh/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160120/20160121&text=Agent Conf&location=Dornbirn, Austria&details=http://www.agent.sh/, Google Calendar)
+**Where:** Dornbirn, Austria
+
+**When:** January 20-21, 2017
+
+
 ## [O'Reilly Velocity Conference](http://conferences.oreilly.com/velocity/vl-ca) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160119/20160122&text=O'Reilly Velocity Conference&location=San Jose, CA&details=http://conferences.oreilly.com/velocity/vl-ca, Google Calendar)
 **Where:** San Jose, CA
 

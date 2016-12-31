@@ -1,5 +1,13 @@
 [
   {
+    "title": "Agent Conf",
+    "url": "http://www.agent.sh/",
+    "where": "Dornbirn, Austria",
+    "when": "January 20-21, 2017",
+    "month": "January",
+    "submissionDeadline": ""
+  },
+  {
     "title": "O'Reilly Velocity Conference",
     "url": "http://conferences.oreilly.com/velocity/vl-ca",
     "where": "San Jose, CA",
