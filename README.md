@@ -187,6 +187,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** April 3-5, 2017
 
 
+## [26th International World Wide Web Conference, 2017](http://www.www2017.com.au/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160403/20160407&text=26th International World Wide Web Conference, 2017&location=Perth, Australia&details=http://www.www2017.com.au/, Google Calendar)
+**Where:** Perth, Australia
+
+**When:** April 3-7, 2017
+
+
 ## [SmashingConf San Francisco 2017](https://shop.smashingmagazine.com/products/smashingconf-san-francisco-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160404/20160405&text=SmashingConf San Francisco 2017&location=San Francisco, United States&details=https://shop.smashingmagazine.com/products/smashingconf-san-francisco-2017, Google Calendar)
 **Where:** San Francisco, United States
 
