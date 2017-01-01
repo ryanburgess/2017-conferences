@@ -176,6 +176,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "NG-NL",
+    "url": "http://ng-nl.org/",
+    "where": "Amsterdam, Netherlands",
+    "when": "March 16, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Voxxed Days - Vienna",
     "url": "https://voxxeddays.com/vienna/",
     "where": "Vienna, Austria",
@@ -344,6 +352,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Angular Summit",
+    "url": "https://angularsummit.com/conference/chicago/2017/05/home",
+    "where": "Chicago, IL",
+    "when": "May 9-11, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Riga Dev Days",
     "url": "http://rigadevdays.lv/",
     "where": "Riga, Latvia",
@@ -428,6 +444,14 @@
     "url": "http://frontendunited.org/",
     "where": "Athens, Greece",
     "when": "May 26-27, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "NG-Cruise",
+    "url": "https://ngcruise.com/#/",
+    "where": "Miami, Florida",
+    "when": "May 29 - June 2, 2017",
     "month": "May",
     "submissionDeadline": ""
   },
@@ -637,6 +661,14 @@
     "where": "San Francisco, CA",
     "when": "October 30- November 1, 2017",
     "month": "October",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Angular Connect",
+    "url": "http://angularconnect.com/",
+    "where": "Excel, London",
+    "when": "November 7-8, 2017",
+    "month": "November",
     "submissionDeadline": ""
   },
   {
