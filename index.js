@@ -13,8 +13,6 @@ const contribute = ('## Contributing \n' +
 '6. Push to the branch (`git push origin my-new-feature`)\n' +
 '7. Create new Pull Request');
 
-content += contribute + '\n';
-
 // create heading for conference list
 content += '\n#Conference List\n';
 
@@ -60,6 +58,8 @@ for (const conference of obj) {
 **When:** ${conference.when}\n\n`
   );
 }
+
+content += contribute + '\n';
 
 // create README with the list of conferences
 fs.writeFile('./README.md', content, function (err) {

@@ -2,14 +2,6 @@
 A list of 2017 web development conferences.
 A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
-## Contributing 
-1. Fork it
-2. Add your conference to `list.json`
-3. Run `node index` to update `README.md` with your changes
-4. Create your feature branch (`git checkout -b my-new-feature`)
-5. Commit your changes (`git commit -am "Add some feature"`)
-6. Push to the branch (`git push origin my-new-feature`)
-7. Create new Pull Request
 
 #Conference List
 
@@ -498,3 +490,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** December 11-13, 2017
 
+## Contributing 
+1. Fork it
+2. Add your conference to `list.json`
+3. Run `node index` to update `README.md` with your changes
+4. Create your feature branch (`git checkout -b my-new-feature`)
+5. Commit your changes (`git commit -am "Add some feature"`)
+6. Push to the branch (`git push origin my-new-feature`)
+7. Create new Pull Request
