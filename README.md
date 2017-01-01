@@ -137,6 +137,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 15th–16th, 2017
 
 
+## [NG-NL](http://ng-nl.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160316/20160316&text=NG-NL&location=Amsterdam, Netherlands&details=http://ng-nl.org/, Google Calendar)
+**Where:** Amsterdam, Netherlands
+
+**When:** March 16, 2017
+
+
 ## [Voxxed Days - Vienna](https://voxxeddays.com/vienna/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160316/20160317&text=Voxxed Days - Vienna&location=Vienna, Austria&details=https://voxxeddays.com/vienna/, Google Calendar)
 **Where:** Vienna, Austria
 
@@ -263,6 +269,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** May 9-10, 2017
 
 
+## [Angular Summit](https://angularsummit.com/conference/chicago/2017/05/home) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160509/20160511&text=Angular Summit&location=Chicago, IL&details=https://angularsummit.com/conference/chicago/2017/05/home, Google Calendar)
+**Where:** Chicago, IL
+
+**When:** May 9-11, 2017
+
+
 ## [Riga Dev Days](http://rigadevdays.lv/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160515/20160517&text=Riga Dev Days&location=Riga, Latvia&details=http://rigadevdays.lv/, Google Calendar)
 **Where:** Riga, Latvia
 
@@ -327,6 +339,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **Where:** Athens, Greece
 
 **When:** May 26-27, 2017
+
+
+## [NG-Cruise](https://ngcruise.com/#/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160529/20160529&text=NG-Cruise&location=Miami, Florida&details=https://ngcruise.com/#/, Google Calendar)
+**Where:** Miami, Florida
+
+**When:** May 29 - June 2, 2017
 
 
 ## [RevolutionConf](https://www.revolutionconf.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160601/20160602&text=RevolutionConf&location=Virginia Beach, VA&details=https://www.revolutionconf.com, Google Calendar)
@@ -483,6 +501,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **Where:** San Francisco, CA
 
 **When:** October 30- November 1, 2017
+
+
+## [Angular Connect](http://angularconnect.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161107/20161108&text=Angular Connect&location=Excel, London&details=http://angularconnect.com/, Google Calendar)
+**Where:** Excel, London
+
+**When:** November 7-8, 2017
 
 
 ## [An Event Apart](https://aneventapart.com/event/denver-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161211/20161213&text=An Event Apart&location=Denver, CO&details=https://aneventapart.com/event/denver-2017, Google Calendar)
