@@ -337,10 +337,28 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** May 26-27, 2017
 
 
+## [RevolutionConf](https://www.revolutionconf.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160601/20160602&text=RevolutionConf&location=Virginia Beach, VA&details=https://www.revolutionconf.com, Google Calendar)
+**Where:** Virginia Beach, VA
+
+**When:** June 1-2, 2017
+
+
 ## [Voxxed Days - Singapore](https://voxxeddays.com/singapore/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160602/20160602&text=Voxxed Days - Singapore&location=Marina Bay Sands, Singapore&details=https://voxxeddays.com/singapore/, Google Calendar)
 **Where:** Marina Bay Sands, Singapore
 
 **When:** June 2, 2017
+
+
+## [Kerning](http://2017.kerning.it) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160607/20160609&text=Kerning&location=Faenza, Italy&details=http://2017.kerning.it, Google Calendar)
+**Where:** Faenza, Italy
+
+**When:** June 7-9, 2017
+
+
+## [UX Scotland](http://uxscotland.net/2017/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160607/20160609&text=UX Scotland&location=Edinburgh, UK&details=http://uxscotland.net/2017/, Google Calendar)
+**Where:** Edinburgh, UK
+
+**When:** June 7-9, 2017
 
 
 ## [Elm Europe](https://elmeurope.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160608/20160609&text=Elm Europe&location=Paris, France&details=https://elmeurope.org/, Google Calendar)
@@ -349,10 +367,94 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** June 8-9, 2017
 
 
+## [Generate](https://www.generateconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160609/20160609&text=Generate&location=San Francisco, CA&details=https://www.generateconf.com/, Google Calendar)
+**Where:** San Francisco, CA
+
+**When:** June 9, 2017
+
+
+## [ReactJS Day](https://www.reactjsday.it) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160610/20160610&text=ReactJS Day&location=Verona, Italy&details=https://www.reactjsday.it, Google Calendar)
+**Where:** Verona, Italy
+
+**When:** June 10, 2017
+
+
+## [SmashingConf](http://lanyrd.com/2017/smashingconf-new-york/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160613/20160614&text=SmashingConf&location=New York City, NY&details=http://lanyrd.com/2017/smashingconf-new-york/, Google Calendar)
+**Where:** New York City, NY
+
+**When:** June 13-14, 2017
+
+
+## [ConvergeSE](http://convergese.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160614/20160616&text=ConvergeSE&location=Columbia, SC&details=http://convergese.com/, Google Calendar)
+**Where:** Columbia, SC
+
+**When:** June 14-16, 2017
+
+
+## [DinosaurJS](http://dinosaurjs.org) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160615/20160615&text=DinosaurJS&location=Denver, CO&details=http://dinosaurjs.org, Google Calendar)
+**Where:** Denver, CO
+
+**When:** June 15, 2017
+
+
+## [O'Reilly Fluent](http://conferences.oreilly.com/fluent/fl-ca) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160619/20160622&text=O'Reilly Fluent&location=San Jose, CA&details=http://conferences.oreilly.com/fluent/fl-ca, Google Calendar)
+**Where:** San Jose, CA
+
+**When:** June 19-22, 2017
+
+
+## [An Event Apart](https://aneventapart.com/event/washington-dc-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160710/20160712&text=An Event Apart&location=Washington, DC&details=https://aneventapart.com/event/washington-dc-2017, Google Calendar)
+**Where:** Washington, DC
+
+**When:** July 10-12, 2017
+
+
+## [Design & Content Conference](http://www.designcontentconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160717/20160719&text=Design & Content Conference&location=Vancouver, BC Canada&details=http://www.designcontentconf.com/, Google Calendar)
+**Where:** Vancouver, BC Canada
+
+**When:** July 17-19, 2017
+
+
+## [An Event Apart](https://aneventapart.com/event/chicago-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160828/20160830&text=An Event Apart&location=Chicago, IL&details=https://aneventapart.com/event/chicago-2017, Google Calendar)
+**Where:** Chicago, IL
+
+**When:** August 28-30, 2017
+
+
+## [Frontend Conference Zurich](https://frontendconf.ch/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160831/20160831&text=Frontend Conference Zurich&location=Zurich, Switzerland&details=https://frontendconf.ch/, Google Calendar)
+**Where:** Zurich, Switzerland
+
+**When:** August 31 - September 1, 2017
+
+
+## [NordicJS](http://nordicjs.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160907/20160908&text=NordicJS&location=Stockholm, Sweden&details=http://nordicjs.com, Google Calendar)
+**Where:** Stockholm, Sweden
+
+**When:** September 7-8, 2017
+
+
+## [Refresh](http://refresh.rocks/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160908/20160908&text=Refresh&location=Tallinn, Estonia&details=http://refresh.rocks/, Google Calendar)
+**Where:** Tallinn, Estonia
+
+**When:** September 8, 2017
+
+
+## [FrontTalks](http://fronttalks.ru/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160916/20160917&text=FrontTalks&location=Ekaterinburg, Russia&details=http://fronttalks.ru/, Google Calendar)
+**Where:** Ekaterinburg, Russia
+
+**When:** September 16-17, 2017
+
+
 ## [SmashingConf Freiburg 2017](https://shop.smashingmagazine.com/products/smashingconf-freiburg-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160911/20160912&text=SmashingConf Freiburg 2017&location=Freiburg, Germany&details=https://shop.smashingmagazine.com/products/smashingconf-freiburg-2017, Google Calendar)
 **Where:** Freiburg, Germany
 
 **When:** September 11th–12th, 2017
+
+
+## [Generate](https://www.generateconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160920/20160922&text=Generate&location=London, UK&details=https://www.generateconf.com/, Google Calendar)
+**Where:** London, UK
+
+**When:** September 20–22, 2017
 
 
 ## [Web Unleashed 2017](http://fitc.ca/event/webu17/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160925/20160926&text=Web Unleashed 2017&location=Toronto, Ontario Canada&details=http://fitc.ca/event/webu17/, Google Calendar)
@@ -367,8 +469,32 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** October 17th–18th, 2017
 
 
+## [Empire JS](http://2017.empirejs.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161022/20161022&text=Empire JS&location=New York City, NY&details=http://2017.empirejs.org/, Google Calendar)
+**Where:** New York City, NY
+
+**When:** October 22, 2017
+
+
 ## [Full Stack TO](http://fsto.co/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161023/20161024&text=Full Stack TO&location=Toronto, Ontario Canada&details=http://fsto.co/, Google Calendar)
 **Where:** Toronto, Ontario Canada
 
 **When:** October 23-24, 2017
+
+
+## [Revolve Conference](https://2017.revolveconference.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161025/20161027&text=Revolve Conference&location=Charleston, SC&details=https://2017.revolveconference.com/, Google Calendar)
+**Where:** Charleston, SC
+
+**When:** October 25-27, 2017
+
+
+## [An Event Apart](https://aneventapart.com/event/san-francisco-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161030/20161030&text=An Event Apart&location=San Francisco, CA&details=https://aneventapart.com/event/san-francisco-2017, Google Calendar)
+**Where:** San Francisco, CA
+
+**When:** October 30- November 1, 2017
+
+
+## [An Event Apart](https://aneventapart.com/event/denver-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161211/20161213&text=An Event Apart&location=Denver, CO&details=https://aneventapart.com/event/denver-2017, Google Calendar)
+**Where:** Denver, CO
+
+**When:** December 11-13, 2017
 

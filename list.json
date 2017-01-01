@@ -432,10 +432,34 @@
     "submissionDeadline": ""
   },
   {
+    "title": "RevolutionConf",
+    "url": "https://www.revolutionconf.com",
+    "where": "Virginia Beach, VA",
+    "when": "June 1-2, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Voxxed Days - Singapore",
     "url": "https://voxxeddays.com/singapore/",
     "where": "Marina Bay Sands, Singapore",
     "when": "June 2, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Kerning",
+    "url": "http://2017.kerning.it",
+    "where": "Faenza, Italy",
+    "when": "June 7-9, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "UX Scotland",
+    "url": "http://uxscotland.net/2017/",
+    "where": "Edinburgh, UK",
+    "when": "June 7-9, 2017",
     "month": "June",
     "submissionDeadline": ""
   },
@@ -448,10 +472,122 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Generate",
+    "url": "https://www.generateconf.com/",
+    "where": "San Francisco, CA",
+    "when": "June 9, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "ReactJS Day",
+    "url": "https://www.reactjsday.it",
+    "where": "Verona, Italy",
+    "when": "June 10, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "SmashingConf",
+    "url": "http://lanyrd.com/2017/smashingconf-new-york/",
+    "where": "New York City, NY",
+    "when": "June 13-14, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "ConvergeSE",
+    "url": "http://convergese.com/",
+    "where": "Columbia, SC",
+    "when": "June 14-16, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "DinosaurJS",
+    "url": "http://dinosaurjs.org",
+    "where": "Denver, CO",
+    "when": "June 15, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "O'Reilly Fluent",
+    "url": "http://conferences.oreilly.com/fluent/fl-ca",
+    "where": "San Jose, CA",
+    "when": "June 19-22, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "An Event Apart",
+    "url": "https://aneventapart.com/event/washington-dc-2017",
+    "where": "Washington, DC",
+    "when": "July 10-12, 2017",
+    "month": "July",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Design & Content Conference",
+    "url": "http://www.designcontentconf.com/",
+    "where": "Vancouver, BC Canada",
+    "when": "July 17-19, 2017",
+    "month": "July",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "An Event Apart",
+    "url": "https://aneventapart.com/event/chicago-2017",
+    "where": "Chicago, IL",
+    "when": "August 28-30, 2017",
+    "month": "August",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Frontend Conference Zurich",
+    "url": "https://frontendconf.ch/",
+    "where": "Zurich, Switzerland",
+    "when": "August 31 - September 1, 2017",
+    "month": "August",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "NordicJS",
+    "url": "http://nordicjs.com",
+    "where": "Stockholm, Sweden",
+    "when": "September 7-8, 2017",
+    "month": "September",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Refresh",
+    "url": "http://refresh.rocks/",
+    "where": "Tallinn, Estonia",
+    "when": "September 8, 2017",
+    "month": "September",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "FrontTalks",
+    "url": "http://fronttalks.ru/",
+    "where": "Ekaterinburg, Russia",
+    "when": "September 16-17, 2017",
+    "month": "September",
+    "submissionDeadline": ""
+  },
+  {
     "title": "SmashingConf Freiburg 2017",
     "url": "https://shop.smashingmagazine.com/products/smashingconf-freiburg-2017",
     "where": "Freiburg, Germany",
     "when": "September 11th–12th, 2017",
+    "month": "September",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Generate",
+    "url": "https://www.generateconf.com/",
+    "where": "London, UK",
+    "when": "September 20–22, 2017",
     "month": "September",
     "submissionDeadline": ""
   },
@@ -472,11 +608,43 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Empire JS",
+    "url": "http://2017.empirejs.org/",
+    "where": "New York City, NY",
+    "when": "October 22, 2017",
+    "month": "October",
+    "submissionDeadline": ""
+  },
+  {
     "title": "Full Stack TO",
     "url": "http://fsto.co/",
     "where": "Toronto, Ontario Canada",
     "when": "October 23-24, 2017",
     "month": "October",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Revolve Conference",
+    "url": "https://2017.revolveconference.com/",
+    "where": "Charleston, SC",
+    "when": "October 25-27, 2017",
+    "month": "October",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "An Event Apart",
+    "url": "https://aneventapart.com/event/san-francisco-2017",
+    "where": "San Francisco, CA",
+    "when": "October 30- November 1, 2017",
+    "month": "October",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "An Event Apart",
+    "url": "https://aneventapart.com/event/denver-2017",
+    "where": "Denver, CO",
+    "when": "December 11-13, 2017",
+    "month": "December",
     "submissionDeadline": ""
   }
 ]
