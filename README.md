@@ -221,7 +221,7 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** April 21, 2017
 
 
-## [FITC Toronto](http://react-amsterdam.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160423/20160425&text=FITC Toronto&location=Toronto, Canada&details=http://react-amsterdam.com/, Google Calendar)
+## [FITC Toronto](http://fitc.ca/event/to17/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160423/20160425&text=FITC Toronto&location=Toronto, Canada&details=http://fitc.ca/event/to17/, Google Calendar)
 **Where:** Toronto, Canada
 
 **When:** April 23-25, 2017
