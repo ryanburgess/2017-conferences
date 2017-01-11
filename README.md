@@ -149,6 +149,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 16-17, 2017
 
 
+## [Wroc_love.rb - Wrocław](http://www.wrocloverb.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170317/20170319&text=Wroc_love.rb - Wrocław&location=Wrocław, Poland&details=http://www.wrocloverb.com/, Google Calendar)
+**Where:** Wrocław, Poland
+
+**When:** March 17th-19th, 2017
+
+
 ## [React London](https://react.london/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160328/20160328&text=React London&location=London, UK&details=https://react.london/, Google Calendar)
 **Where:** London, UK
 
