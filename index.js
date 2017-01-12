@@ -25,7 +25,7 @@ let getCalendarUrl = (_conf) => {
   let _date = (function () {
     let _when = _conf.when.replace(/(\d)(st|nd|rd|th)/g, '$1');
     let _startDay = _when.match(/\d+/);
-    let _startDate = formatDateYYYYMMDD(`${_conf.month} ${_startDay}, 2016`);
+    let _startDate = formatDateYYYYMMDD(`${_conf.month} ${_startDay}, 2017`);
     let _endDay = _when.match(/(\d+)(?:-|–)(\d+)/);
     let _endMonth = _when.match(/\d+(?:-|–)([^\d\s]+)/);
     let _endDate;
@@ -33,10 +33,10 @@ let getCalendarUrl = (_conf) => {
     _endMonth = _endMonth ? _endMonth[1] : null;
 
     if (_endDay) {
-      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay[2]}, 2016`);
+      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay[2]}, 2017`);
     } else if (_endMonth) {
-      _endDay = _when.match(/(\d)+, 2016/)[1];
-      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay}, 2016`);
+      _endDay = _when.match(/(\d)+, 2017/)[1];
+      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay}, 2017`);
     }
 
     if (_endDate) {
