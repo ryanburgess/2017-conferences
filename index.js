@@ -1,8 +1,8 @@
 'use strict';
 const fs = require('fs');
 const obj = require('./list.json');
-let content = '# 2017 Web Development Conferences\nA list of 2017 web development conferences.\nA list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).\n\n';
-
+const year = 2017;
+let content = `# ${year} Web Development Conferences\nA list of ${year} web development conferences.\nA list of [${year - 1} conferences](https://github.com/ryanburgess/${year - 1}-conferences).\n\n`;
 // create contributing instructions
 const contribute = ('## Contributing \n' +
 '1. Fork it\n' +
@@ -16,6 +16,7 @@ const contribute = ('## Contributing \n' +
 // create heading for conference list
 content += '\n#Conference List\n';
 
+// format date
 let formatDateYYYYMMDD = (_dateString) => {
   let _d = new Date(_dateString);
   return new Date(_d - _d.getTimezoneOffset() * 60 * 1000).toJSON().split(/T/)[0].replace(/-/g, '');
@@ -25,7 +26,7 @@ let getCalendarUrl = (_conf) => {
   let _date = (function () {
     let _when = _conf.when.replace(/(\d)(st|nd|rd|th)/g, '$1');
     let _startDay = _when.match(/\d+/);
-    let _startDate = formatDateYYYYMMDD(`${_conf.month} ${_startDay}, 2017`);
+    let _startDate = formatDateYYYYMMDD(`${_conf.month} ${_startDay}, ${year}`);
     let _endDay = _when.match(/(\d+)(?:-|–)(\d+)/);
     let _endMonth = _when.match(/\d+(?:-|–)([^\d\s]+)/);
     let _endDate;
@@ -33,10 +34,10 @@ let getCalendarUrl = (_conf) => {
     _endMonth = _endMonth ? _endMonth[1] : null;
 
     if (_endDay) {
-      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay[2]}, 2017`);
+      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay[2]}, ${year}`);
     } else if (_endMonth) {
       _endDay = _when.match(/(\d)+, 2017/)[1];
-      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay}, 2017`);
+      _endDate = formatDateYYYYMMDD(`${_endMonth || _conf.month} ${_endDay}, ${year}`);
     }
 
     if (_endDate) {
@@ -51,7 +52,7 @@ let getCalendarUrl = (_conf) => {
 
 // create list of conferences
 for (const conference of obj) {
-
+  // create content for readme
   content += (
     `\n## [${conference.title}](${conference.url}) [📆](${getCalendarUrl(conference)}, Google Calendar)
 **Where:** ${conference.where}\n
@@ -59,6 +60,7 @@ for (const conference of obj) {
   );
 }
 
+// add contribute information after list of conferences
 content += contribute + '\n';
 
 // create README with the list of conferences
