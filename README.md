@@ -239,6 +239,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** April 24-25, 2017
 
 
+## [Serverlessconf](https://austin.serverlessconf.io/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170426/20170428&text=Serverlessconf&location=Austin, TX&details=https://austin.serverlessconf.io/, Google Calendar)
+**Where:** Austin, TX
+
+**When:** April 26-28, 2017
+
+
 ## [Generate](https://www.generateconf.com/new-york-2017/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170427/20170428&text=Generate&location=New York City, NY&details=https://www.generateconf.com/new-york-2017/, Google Calendar)
 **Where:** New York City, NY
 
