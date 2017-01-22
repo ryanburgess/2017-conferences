@@ -155,6 +155,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 17th-19th, 2017
 
 
+## [JazzCon.Tech](http://www.jazzcon.tech/) [📆](https://calendar.google.com/calendar/render?tab=mc#eventpage_6%7Ceid-MG5ldTYwbTBybjFuMTEwdGpqcjU5ZHBmZmcgdmluY2UubWF5ZXJzQG0-1-0-)
+**Where:** New Orleans, USA
+
+**When:** March 20th-22nd, 2017
+
+
 ## [React London](https://react.london/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170328/20170328&text=React London&location=London, UK&details=https://react.london/, Google Calendar)
 **Where:** London, UK
 
