@@ -155,7 +155,7 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 17th-19th, 2017
 
 
-## [JazzCon.Tech](http://www.jazzcon.tech/) [📆](https://calendar.google.com/calendar/render?tab=mc#eventpage_6%7Ceid-MG5ldTYwbTBybjFuMTEwdGpqcjU5ZHBmZmcgdmluY2UubWF5ZXJzQG0-1-0-)
+## [JazzCon.Tech](http://www.jazzcon.tech/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170320/20170322&text=JazzCon.Tech&location=New Orleans, USA&details=http://www.jazzcon.tech/, Google Calendar)
 **Where:** New Orleans, USA
 
 **When:** March 20th-22nd, 2017

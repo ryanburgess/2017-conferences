@@ -200,6 +200,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "JazzCon.Tech",
+    "url": "http://www.jazzcon.tech/",
+    "where": "New Orleans, USA",
+    "when": "March 20th-22nd, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
     "title": "React London",
     "url": "https://react.london/",
     "where": "London, UK",
