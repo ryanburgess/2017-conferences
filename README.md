@@ -532,6 +532,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** December 11-13, 2017
 
+
+## [WordCamp Europe 2017](https://2017.europe.wordcamp.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170615/20170617&text=WordCamp Europe 2017&location=Paris, France&details=https://2017.europe.wordcamp.org/, Google Calendar)
+**Where:** Paris, France
+
+**When:** June 15-17, 2017
+
 ## Contributing 
 1. Fork it
 2. Add your conference to `list.json`
