@@ -521,6 +521,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** October 30- November 1, 2017
 
 
+## [Beyond Tellerrand](http://beyondtellerrand.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20171106/20171108&text=Beyond Tellerrand&location=Berlin, Germany&details=http://beyondtellerrand.com/, Google Calendar)
+**Where:** Berlin, Germany
+
+**When:** November 6–8, 2017
+
+
 ## [Angular Connect](http://angularconnect.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20171107/20171108&text=Angular Connect&location=Excel, London&details=http://angularconnect.com/, Google Calendar)
 **Where:** Excel, London
 
