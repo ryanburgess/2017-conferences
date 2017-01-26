@@ -161,6 +161,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **When:** March 20th-22nd, 2017
 
 
+## [JSUnconf](http://2017.jsunconf.eu/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170325/20170326&text=JSUnconf&location=Hamburg, Germany&details=http://2017.jsunconf.eu/, Google Calendar)
+**Where:** Hamburg, Germany
+
+**When:** March 25th-26th, 2017
+
+
 ## [React London](https://react.london/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170328/20170328&text=React London&location=London, UK&details=https://react.london/, Google Calendar)
 **Where:** London, UK
 

@@ -208,6 +208,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "JSUnconf",
+    "url": "http://2017.jsunconf.eu/",
+    "where": "Hamburg, Germany",
+    "when": "March 25th-26th, 2017",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
     "title": "React London",
     "url": "https://react.london/",
     "where": "London, UK",
