@@ -550,6 +550,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** June 15-17, 2017
 
+
+## [Web Rebels](https://webrebels.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170601/20170602&text=Web Rebels&location=Oslo, Norway&details=https://webrebels.org/, Google Calendar)
+**Where:** Oslo, Norway
+
+**When:** June 01-02, 2017
+
 ## Contributing 
 1. Fork it
 2. Add your conference to `list.json`
