@@ -556,6 +556,12 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** June 01-02, 2017
 
+
+## [WeAreDevelopers](http://www.wearedevelopers.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170511/20170512&text=WeAreDevelopers&location=Vienna, Austria&details=http://www.wearedevelopers.org/, Google Calendar)
+**Where:** Vienna, Austria
+
+**When:** May 11-12, 2017
+
 ## Contributing 
 1. Fork it
 2. Add your conference to `list.json`
