@@ -64,6 +64,7 @@ for (const conference of obj) {
     `
 ## [${conference.title}](${conference.url}) [📆](${getCalendarUrl(conference)}, Google Calendar)
 **Where:** ${conference.where}
+
 **When:** ${conference.when}
     `
   );
