@@ -742,5 +742,53 @@
     "when": "May 11-12, 2017",
     "month": "May",
     "submissionDeadline": ""
+  },
+  {
+    "title": "CodeFest",
+    "url": "https://2017.codefest.ru",
+    "where": "Novosibirsk, Russia",
+    "when": "April 1-2, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "DUMP",
+    "url": "http://dump-conf.ru/",
+    "where": "Ekaterinburg, Russia",
+    "when": "April 14, 2017",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "JS Day Italy",
+    "url": "https://2017.jsday.it/",
+    "where": "Verona, Italy",
+    "when": "May 10-11, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "JS Day Italy",
+    "url": "https://2017.jsday.it/",
+    "where": "Verona, Italy",
+    "when": "May 10-11, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Holy JS",
+    "url": "https://holyjs-piter.ru/",
+    "where": "Saint-Petersburg, Russia",
+    "when": "June 2-3, 2017",
+    "month": "June",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Frontend Conf",
+    "url": "http://frontendconf.ru/",
+    "where": "Moscow, Russia",
+    "when": "June 5-6, 2017",
+    "month": "June",
+    "submissionDeadline": ""
   }
 ]
