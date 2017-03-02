@@ -414,6 +414,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** September 25th–26th, 2017
     
+## [Node.js Interactive North America 2017](http://events.linuxfoundation.org/events/node-interactive) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20171004/20171006&text=Node.js Interactive North America 2017&location=Vancouver, BC Canada&details=http://events.linuxfoundation.org/events/node-interactive, Google Calendar)
+**Where:** Vancouver, BC Canada
+
+**When:** October 4th–6th, 2017
+    
 ## [SmashingConf Barcelona 2017](https://shop.smashingmagazine.com/products/smashingconf-barcelona-2017) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20171017/20171018&text=SmashingConf Barcelona 2017&location=Barcelona, Spain&details=https://shop.smashingmagazine.com/products/smashingconf-barcelona-2017, Google Calendar)
 **Where:** Barcelona, Spain
 
