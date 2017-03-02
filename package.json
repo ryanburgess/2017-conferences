@@ -1,10 +1,9 @@
 {
   "name": "2017-conferences",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A list of 2017 web development conferences",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,7 +19,6 @@
     "conferences",
     "web",
     "development",
-    "development",
     "list"
   ],
   "author": "Ryan Burgess",
@@ -30,19 +28,12 @@
   },
   "homepage": "https://github.com/ryanburgess/2017-conferences#readme",
   "dependencies": {
-    "cheerio": "^0.20.0",
-    "ghooks": "^1.2.1",
-    "jsonfile": "^2.3.1",
-    "request": "^2.74.0"
   },
   "config": {
     "ghooks": {
-      "pre-commit": "node index",
-      "post-merge": "npm install",
-      "post-rewrite": "npm install"
+      "pre-commit": "node index"
     }
   },
   "devDependencies": {
-    "jsonfile": "^2.2.3"
   }
 }
