@@ -189,6 +189,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** April 7th–8th, 2017
     
+## [ForwardJS: Ottawa](https://forwardjs.com/ottawa) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170406/20170408&text=ForwardJS: Ottawa&location=Ottawa, Ontario Canada&details=https://forwardjs.com/ottawa, Google Calendar)
+**Where:** Ottawa, Ontario Canada
+
+**When:** April 6th–8th, 2017
+    
 ## [Front End Design Conference](https://frontenddesignconference.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170419/20170421&text=Front End Design Conference&location=St. Petersburg, FL&details=https://frontenddesignconference.com/, Google Calendar)
 **Where:** St. Petersburg, FL
 
