@@ -327,6 +327,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 ## [Kerning](http://2017.kerning.it) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170607/20170609&text=Kerning&location=Faenza, Italy&details=http://2017.kerning.it, Google Calendar)
 **Where:** Faenza, Italy
 
+**When:** June 3, 2017
+
+## [Webconf.asia](https://webconf.asia/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170603/20170604&text=Webconf.asia&location=Hong Kong&details=https://webconf.asia/, Google Calendar)
+**Where:** Hong Kong
+
 **When:** June 7-9, 2017
     
 ## [UX Scotland](http://uxscotland.net/2017/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170607/20170609&text=UX Scotland&location=Edinburgh, UK&details=http://uxscotland.net/2017/, Google Calendar)
