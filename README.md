@@ -478,8 +478,38 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **Where:** Vienna, Austria
 
 **When:** May 11-12, 2017
-    
-## Contributing
+
+## [CodeFest](https://2017.codefest.ru) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170401/20170402&text=CodeFest&location=Novosibirsk, Russia&details=https://2017.codefest.ru, Google Calendar)
+**Where:** Novosibirsk, Russia
+
+**When:** April 1-2, 2017
+
+
+## [DUMP](http://dump-conf.ru/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170414/20170414&text=DUMP&location=Ekaterinburg, Russia&details=http://dump-conf.ru/, Google Calendar)
+**Where:** Ekaterinburg, Russia
+
+**When:** April 14, 2017
+
+
+## [JS Day Italy](https://2017.jsday.it/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170510/20170511&text=JS Day Italy&location=Verona, Italy&details=https://2017.jsday.it/, Google Calendar)
+**Where:** Verona, Italy
+
+**When:** May 10-11, 2017
+
+
+## [Holy JS](https://holyjs-piter.ru/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170602/20170603&text=Holy JS&location=Saint-Petersburg, Russia&details=https://holyjs-piter.ru/, Google Calendar)
+**Where:** Saint-Petersburg, Russia
+
+**When:** June 2-3, 2017
+
+
+## [Frontend Conf](http://frontendconf.ru/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170605/20170606&text=Frontend Conf&location=Moscow, Russia&details=http://frontendconf.ru/, Google Calendar)
+**Where:** Moscow, Russia
+
+**When:** June 5-6, 2017
+
+## Contributing 
+
 1. Fork it
 2. Add your conference to `list.json`
 3. Run `node index to update` `README.md` with your changes
