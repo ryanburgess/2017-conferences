@@ -61,8 +61,9 @@ let getCalendarUrl = (_conf) => {
 for (const conference of obj) {
   // create content for readme
   content += (
+    //[📆](${getCalendarUrl(conference)}, Google Calendar)
     `
-## [${conference.title}](${conference.url}) [📆](${getCalendarUrl(conference)}, Google Calendar)
+## [${conference.title}](${conference.url})
 **Where:** ${conference.where}
 
 **When:** ${conference.when}
