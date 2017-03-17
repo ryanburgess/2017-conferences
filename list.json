@@ -624,6 +624,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "React Native EU",
+    "url": "https://react-native.eu/",
+    "where": "Wroclaw, Poland",
+    "when": "September 6-7, 2017",
+    "month": "September",
+    "submissionDeadline": ""
+  },
+  {
     "title": "NordicJS",
     "url": "http://nordicjs.com",
     "where": "Stockholm, Sweden",

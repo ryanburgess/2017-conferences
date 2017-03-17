@@ -394,6 +394,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** August 31 - September 1, 2017
     
+## [React Native EU](https://react-native.eu/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170906/20170907&text=React Native EU&location=Wroclaw, Poland&details=https://react-native.eu/, Google Calendar)
+**Where:** Wroclaw, Poland
+
+**When:** September 6-7, 2017
+    
 ## [NordicJS](http://nordicjs.com) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20170907/20170908&text=NordicJS&location=Stockholm, Sweden&details=http://nordicjs.com, Google Calendar)
 **Where:** Stockholm, Sweden
 
