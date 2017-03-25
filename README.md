@@ -289,6 +289,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** May 20-21, 2017
     
+## [GraphQL-Europe](https://graphql-europe.org/)
+**Where:** Berlin, Germany
+
+**When:** May 21st, 2017
+    
 ## [User Experience Lisbon](https://www.ux-lx.com/)
 **Where:** Lisbon, Portugal
 
