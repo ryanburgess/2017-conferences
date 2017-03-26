@@ -342,7 +342,7 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 ## [Webconf.asia](https://webconf.asia/)
 **Where:** Hong Kong
 
-**When:** June 7-9, 2017
+**When:** June 3, 2017
     
 ## [Elm Europe](https://elmeurope.org/)
 **Where:** Paris, France
