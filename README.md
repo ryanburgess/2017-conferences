@@ -389,6 +389,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** July 17-19, 2017
     
+## [React Rally](http://www.reactrally.com/)
+**Where:** Salt Lake City, UT
+
+**When:** August 24-25, 2017
+    
 ## [An Event Apart](https://aneventapart.com/event/chicago-2017)
 **Where:** Chicago, IL
 
