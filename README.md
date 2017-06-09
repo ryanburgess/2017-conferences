@@ -524,6 +524,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** June 5-6, 2017
     
+## [NodeConf Argentina](https://2017.nodeconf.com.ar/)
+**Where:** Buenos Aires, Argentina
+
+**When:** October 26-28, 2017
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`

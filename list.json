@@ -830,5 +830,13 @@
     "when": "June 5-6, 2017",
     "month": "June",
     "submissionDeadline": ""
+  },
+  {
+    "title": "NodeConf Argentina",
+    "url": "https://2017.nodeconf.com.ar/",
+    "where": "Buenos Aires, Argentina",
+    "when": "October 26-28, 2017",
+    "month": "October",
+    "submissionDeadline": "July 15, 2017"
   }
 ]
