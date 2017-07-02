@@ -529,6 +529,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** October 26-28, 2017
     
+## [Full Stack Fest](https://fullstackfest.barcelona)
+**Where:** Barcelona, Spain
+
+**When:** September 4-8, 2017
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`

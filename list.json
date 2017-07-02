@@ -838,5 +838,13 @@
     "when": "October 26-28, 2017",
     "month": "October",
     "submissionDeadline": "July 15, 2017"
+  },
+  {
+    "title": "Full Stack Fest",
+    "url": "https://fullstackfest.barcelona",
+    "where": "Barcelona, Spain",
+    "when": "September 4-8, 2017",
+    "month": "September",
+    "submissionDeadline": ""
   }
 ]
