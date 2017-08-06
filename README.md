@@ -399,6 +399,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** August 31 - September 1, 2017
     
+## [Nginx Conf](https://www.nginx.com/nginxconf/)
+**Where:** Portland, Oregon
+
+**When:** September 6-8, 2017
+    
 ## [React Native EU](https://react-native.eu/)
 **Where:** Wroclaw, Poland
 
@@ -438,6 +443,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 **Where:** Vancouver, BC Canada
 
 **When:** October 4th–6th, 2017
+    
+## [GitHub Universe](https://githubuniverse.com/)
+**Where:** San Francisco, California
+
+**When:** October 10-12, 2017
     
 ## [SmashingConf Barcelona 2017](https://shop.smashingmagazine.com/products/smashingconf-barcelona-2017)
 **Where:** Barcelona, Spain

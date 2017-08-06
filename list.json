@@ -632,6 +632,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Nginx Conf",
+    "url": "https://www.nginx.com/nginxconf/",
+    "where": "Portland, Oregon",
+    "when": "September 6-8, 2017",
+    "month": "September",
+    "submissionDeadline": ""
+  },
+  {
     "title": "React Native EU",
     "url": "https://react-native.eu/",
     "where": "Wroclaw, Poland",
@@ -692,6 +700,14 @@
     "url": "http://events.linuxfoundation.org/events/node-interactive",
     "where": "Vancouver, BC Canada",
     "when": "October 4th–6th, 2017",
+    "month": "October",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "GitHub Universe",
+    "url": "https://githubuniverse.com/",
+    "where": "San Francisco, California",
+    "when": "October 10-12, 2017",
     "month": "October",
     "submissionDeadline": ""
   },
