@@ -394,6 +394,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** August 24-25, 2017
     
+## [BrazilJS](https://braziljs.org/conf/)
+**Where:** Porto Alegre, Brazil
+
+**When:** August 25-26, 2017
+    
 ## [An Event Apart](https://aneventapart.com/event/chicago-2017)
 **Where:** Chicago, IL
 
