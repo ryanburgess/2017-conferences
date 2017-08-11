@@ -444,6 +444,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** September 20–22, 2017
     
+## [React Boston](http://www.reactboston.com/)
+**Where:** Boston, MA
+
+**When:** September 23–24, 2017
+    
 ## [Web Unleashed 2017](http://fitc.ca/event/webu17/)
 **Where:** Toronto, Ontario Canada
 
