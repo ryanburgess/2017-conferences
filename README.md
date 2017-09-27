@@ -554,6 +554,21 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** September 4-8, 2017
     
+## [CoderCruise](https://www.codercruise.com/)
+**Where:** New Orleans, LA, USA & The Caribbean
+
+**When:** July 16-23, 2017
+    
+## [php[tek] 2017](https://tek.phparch.com/)
+**Where:** Atlanta, GA, USA
+
+**When:** May 24-26, 2017
+    
+## [php[world] 2017](https://world.phparch.com/)
+**Where:** Washington, D.C., USA
+
+**When:** November 15-16, 2017
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
