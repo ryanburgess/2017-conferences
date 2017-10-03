@@ -878,5 +878,29 @@
     "when": "September 4-8, 2017",
     "month": "September",
     "submissionDeadline": ""
+  },
+  {
+    "title": "CoderCruise",
+    "url": "https://www.codercruise.com/",
+    "where": "New Orleans, LA, USA & The Caribbean",
+    "when": "July 16-23, 2017",
+    "month": "July",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "php[tek] 2017",
+    "url": "https://tek.phparch.com/",
+    "where": "Atlanta, GA, USA",
+    "when": "May 24-26, 2017",
+    "month": "May",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "php[world] 2017",
+    "url": "https://world.phparch.com/",
+    "where": "Washington, D.C., USA",
+    "when": "November 15-16, 2017",
+    "month": "November",
+    "submissionDeadline": ""
   }
 ]
