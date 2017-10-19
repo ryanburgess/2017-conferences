@@ -499,6 +499,11 @@ A list of [2016 conferences](https://github.com/ryanburgess/2016-conferences).
 
 **When:** November 7-8, 2017
     
+## [JS Kongress Munich - The Future of JavaScript](https://2017.js-kongress.de/)
+**Where:** Alte Kongresshalle Munich, Germany
+
+**When:** November 13-14, 2017
+    
 ## [An Event Apart](https://aneventapart.com/event/denver-2017)
 **Where:** Denver, CO
 
